@@ -1,2 +1,2 @@
-# thegame
-A game 
+# The Game
+Just a game 
